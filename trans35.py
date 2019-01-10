@@ -1,8 +1,7 @@
 #this script is just for mac os
 #此脚本用于解决mac系统下 中文txt文档出现乱码的状况，在脚本的同目录下
 #将乱码的文件都放进去，在终端执行此脚本
-#这个脚本一个bug都没有 一遍过 哈哈哈哈哈
-#author:0han, github:/e0han, email: 0han@protonmail.com
+#author:0han, github:/e0han, email: 0han@pm.me
 import os
 
 def get_file():
